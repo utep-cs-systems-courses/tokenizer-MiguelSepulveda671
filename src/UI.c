@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "tokennier.h"
+#include "tokenizer.h"
 
 void main()
 {
